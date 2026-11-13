@@ -1,0 +1,10 @@
+{
+  "description": "Browse an elegant interactive restaurant menu, customize dishes, and place table orders with ease from any device.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
